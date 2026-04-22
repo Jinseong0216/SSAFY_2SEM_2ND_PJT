@@ -1,5 +1,7 @@
-<video src="./PPT_files/vd1.mp4" controls width="600"></video>
-<video src="./PPT_files/vd2.mp4" controls width="600"></video>
+<img src="./PPT_files/시연영상1.gif" width="600"/>
+<img src="./PPT_files/시연영상2.gif" width="600"/>
+<img src="./PPT_files/시연영상3.gif" width="600"/>
+<img src="./PPT_files/시연영상4.gif" width="600"/>
 
 <img src="./PPT_files/hshowSlide_0001.png" width="600"/>
 <img src="./PPT_files/hshowSlide_0002.png" width="600"/>
